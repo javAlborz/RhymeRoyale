@@ -1,5 +1,4 @@
-import TemplateGame from "@/components/game/template-game.tsx";
-
+import TemplateGame from "@/components/game/template-game";
 export default function Home() {
   return (
     <>
