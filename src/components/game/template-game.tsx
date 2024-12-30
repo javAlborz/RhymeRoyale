@@ -51,11 +51,17 @@ export default function TemplateGame() {
       
       const story = `
 
+[First Rapper - ${firstLabel} - Aggressive, confident delivery]
 ${firstUser}
 
+[Beat Break]
+2 bars of instrumental
 
+[Second Rapper - ${secondLabel} - Intense, responding with equal energy]
 ${secondUser}
-`
+
+[Closing]
+Fade out with 2 bars of beat`
       setResult(story)
     }
   }
